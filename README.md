@@ -15,9 +15,9 @@
 
 - 💬 Ask me about **Web/Mobile/Extension Development**
 
-- 📫 How to reach me **olehbilozirrrr@gmail.com**
+- 📫 How to reach me [![Gmail](https://img.shields.io/badge/Gmail-Email-red)](mailto:olehbilozirrrr@gmail.com)
 
 ### 📊 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=OlehBilozir&include_all_commits=true&show_icons=true&theme=prussian&hide_border=true" alt="Oleh's github stats" width="48%" align="right" >
-<img src="http://github-readme-streak-stats.herokuapp.com?user=OlehBilozir&theme=prussian&hide_border=true" alt="Oleh's github streak" width="48%" >
+<img src="https://github-readme-stats.vercel.app/api?username=OlehBilozir&show_icons=true&theme=transparent&hide_border=true" alt="Oleh's github stats" width="48%" align="right"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=OlehBilozir&theme=transparent&hide_border=true" alt="Oleh's github streak" width="48%" />
