@@ -62,6 +62,8 @@
   <img align="center" alt="Flask" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"> 
   <img align="center" alt="Django" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"> 
   <img align="center" alt="Laravel" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"> 
+</div>
+<div style="display: inline_block">
   <img align="center" alt="WordPress" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg"> 
 </div>
 <br/>
