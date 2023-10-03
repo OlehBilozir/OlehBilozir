@@ -46,7 +46,7 @@
 
 ### 🧩 Frameworks/Libraries
 
-<div style="display: inline_block">
+<div style="display: inline_block;margin-bottom:16px">
   <img align="center" alt="ReactJS" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Redux" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
   <img align="center" alt="NextJS" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
