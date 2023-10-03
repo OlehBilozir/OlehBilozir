@@ -46,7 +46,7 @@
 
 ### 🧩 Frameworks/Libraries
 
-<div style="display: inline_block;margin-bottom:16px">
+<div style="display: inline_block">
   <img align="center" alt="ReactJS" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Redux" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
   <img align="center" alt="NextJS" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
@@ -63,6 +63,7 @@
   <img align="center" alt="Django" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"> 
   <img align="center" alt="Laravel" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"> 
 </div>
+<br/>
 <div style="display: inline_block">
   <img align="center" alt="WordPress" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg"> 
 </div>
