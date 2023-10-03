@@ -28,7 +28,7 @@
 <img src="http://github-readme-streak-stats.herokuapp.com?user=OlehBilozir&theme=transparent&hide_border=true" alt="Oleh's github streak" width="48%" />
 
 ### 🔝 Most used languages
-<img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=square1grp&hide_title=true&theme=transparent&hide_border=true&layout=compact" />
+<img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlehBilozir&hide_title=true&theme=transparent&hide_border=true&layout=compact" />
 
 ---
 
