@@ -35,69 +35,49 @@
 ### 🧑‍💻 Languages
 
 <div style="display: inline_block">
-    <img align="center" alt="Javascript" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-    <img align="center" alt="Typescript" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
-    <img align="center" alt="Python" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" />
-    <img align="center" alt="PHP" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" />
-    <img align="center" alt="HTML5" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-    <img align="center" alt="CSS3" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img align="center" alt="Javascript" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="Typescript" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
+  <img align="center" alt="Python" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" />
+  <img align="center" alt="PHP" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" />
+  <img align="center" alt="HTML5" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS3" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 </div>
+<br/>
 
 ### 🧩 Frameworks/Libraries
 
 <div style="display: inline_block">
-    <img align="center" alt="React" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-    <img align="center" alt="Redux" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-    <img align="center" alt="Angular" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-    <img align="center" alt="Bootstrap" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"> 
-    <img align="center" alt="Firebase" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
-    <img align="center" alt="Js" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" alt="Spring Boot" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-    <img align="center" alt="PostgreSQL" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
-    <img align="center" alt="JQuery" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="Jira" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
+  <img align="center" alt="ReactJS" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Redux" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+  <img align="center" alt="NextJS" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Gatsby" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg">
+  <img align="center" alt="VueJS" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Angular" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Svelte" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg">
+  <img align="center" alt="MaterialUI" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
+  <img align="center" alt="Bootstrap" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"> 
+  <img align="center" alt="TailwindCSS" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"> 
+  <img align="center" alt="ExpressJS" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"> 
+  <img align="center" alt="NestJS" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"> 
+  <img align="center" alt="Flask" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"> 
+  <img align="center" alt="Django" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"> 
+  <img align="center" alt="Laravel" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"> 
+  <img align="center" alt="WordPress" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg"> 
 </div>
+<br/>
 
 ### 🗃️ Databases
 
-![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### ⚒️ Tools
-
-![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![pypi](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)
-![conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
-![gitkraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white)
-
-### 🧠 IDEs/Text Editors I use
-
-![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![webstorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
-![pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![intellijidea](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![codesandbox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)
-![notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
-![replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
-
-### 🤖 Artificial Intelligence
-![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![dialogflow](https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)
-
-
-### 💻 Workspace
-
-![ubuntu](https://img.shields.io/badge/ubuntu-0078D6?style=for-the-badge&logo=ubuntu&logoColor=white)
-![mac](https://img.shields.io/badge/mac-0078D6?style=for-the-badge&logo=mac&logoColor=white)
+<div style="display: inline_block">
+  <img align="center" alt="PostgreSQL" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg"> 
+  <img align="center" alt="MongoDB" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> 
+  <img align="center" alt="MySQL" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
+  <img align="center" alt="Neo4j" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg"> 
+  <img align="center" alt="Firebase" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"> 
+  <img align="center" alt="Supabase" height="30" width="50" src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg"> 
+  <img align="center" alt="Redis" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"> 
+</div>
+<br/>
 
 ### ☁ Cloud
 
